@@ -120,7 +120,5 @@ The success of AI adoption initiatives can be measured using the following KPIs:
 This project demonstrates how Generative AI can be strategically adopted in banking to improve efficiency, reduce operational costs, and enhance decision-making.
 
 The focus is on **practical AI integration into business workflows rather than model development**.
-
-## Power BI Dashboard
-
-![Power BI Dashboard](images/powerbi_dashboard.png)
+## POWER BI DASHBOARD
+![Power BI Dashboard](powerbi_dashboard.png)
